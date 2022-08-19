@@ -1,0 +1,50 @@
+       body {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        .main {
+            width: 100%;
+            margin: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+        }
+        
+        .logo {
+            background-color: darkgrey;
+            color: lavenderblush;
+            text-align: center;
+            border: 1px solid transparent;
+            margin-top: 0px;
+            width: 120px;
+            height: 30px;
+            float: right;
+            font-weight: bold;
+            padding-top: 5px;
+        }
+        
+        .section1 {
+            background: blueviolet;
+            padding-left: 10px;
+        }
+        
+        .section2 {
+            background: blueviolet;
+            width: 33%;
+            margin-left: 10px;
+            padding-left: 10px;
+        }
+        
+        .section3 {
+            background: blueviolet;
+            width: 33%;
+            margin-left: 10px;
+            padding-left: 10px;
+        }
+        
+        .flx {
+            display: flex;
+        }
